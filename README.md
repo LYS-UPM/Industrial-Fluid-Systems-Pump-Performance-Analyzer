@@ -3,9 +3,9 @@ Bridging the gap between theoretical fluid mechanics and practical engineering a
 
 In modern mechanical engineering, fluid systems act as the "blood vessels" of industrial operations. However, traditional valve throttling control is not only inefficient but also a massive drain on energy. This project explores the perfect intersection of fluid dynamics and modern electromechanical control. By building a rigorous implicit solver for pipe resistance in Python, and deeply quantifying the impact of Variable Frequency Drives (VFD) on pump performance using MATLAB, this repository goes beyond a mere calculation tool. It serves as a quantitative engineering demonstration of how algorithmic optimization can cut industrial energy consumption and carbon emissions by over 30%.
 
-An open-source engineering calculation suite designed to tackle the high-resistance and high-energy-consumption pain points of industrial fluid systems.
+# An open-source engineering calculation suite designed to tackle the high-resistance and high-energy-consumption pain points of industrial fluid systems.
 
-Python Engine: Handles complex fluid dynamics calculations and pressure drop evaluations for piping networks.
+Python Engine : Handles complex fluid dynamics calculations and pressure drop evaluations for piping networks.
 
 MATLAB Engine: Simulates real-world pump VFD characteristics based on the Affinity Laws to precisely quantify energy-saving potential.
 
